@@ -110,6 +110,10 @@ Similar to Lab 1, we also need to wire and validate the microcontroller, motors,
 |:---------------------------------------------------|
 | Demonstrate `encoder_test.cpp` to a TA or LA! |
 
+## 3 Feedback Form
+
+If you have any feedback, please fill out the form here: https://forms.gle/GXQCmbxuda3mm2cy6
+
 ## X Optional
 
 ### X.1 Adding the Joystick
