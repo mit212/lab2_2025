@@ -1,7 +1,7 @@
 # Lab 2: 2-DoF Robot Assembly
 
 2.12/2.120 Intro to Robotics  
-Spring 2024[^1]
+Spring 2025[^1]
 
 - [1 Hardware Assembly](#1-hardware-assembly)
 - [2 Wiring and Validation](#2-wiring-and-validation)
@@ -178,3 +178,4 @@ Attach a marker to the end of your 2-DoF robot and try drawing a straight line o
   Version 2 - 2024: Phillip Daniel  
   Version 3 - 2024: Ravi Tejwani, Kentaro Barhydt  
   Version 4 - 2024: Jinger Chong, Josh Sohn
+  Version 5 - 2025: Roberto Bolli, Kaleb Blake
