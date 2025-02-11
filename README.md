@@ -130,7 +130,7 @@ With the joystick in place, we can then use code to connect the joystick reading
 
 ### X.2.1 Refactoring Code
 
-1. Open `include/joystick.h` and define a `struct` to store the `x` and `y` values of a joystick reading as integers.
+1. Open `include/joystick.h` and define a `struct` to store the `x` and `y` values of a joystick reading as floats.
     <details>
     <summary>  <i> What is a struct?</i></summary>
 
