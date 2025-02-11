@@ -8,6 +8,7 @@ Spring 2025[^1]
   - [2.1 Microcontroller](#21-microcontroller)
   - [2.2 Motors](#22-motors)
   - [2.3 Encoders](#23-encoders)
+- [3 Feedback Form](#3-feedback-form)
 - [X Optional](#x-optional)
   - [X.1 Adding the Joystick](#x1-adding-the-joystick)
   - [X.2 Moving in Joint Space](#x2-moving-in-joint-space)
