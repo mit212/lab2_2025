@@ -84,7 +84,7 @@ Similar to Lab 1, we also need to wire and validate the microcontroller, motors,
 ### 2.2 Motors 
 
 1. Wire the motors according to `include/pinout.h`. Remember to wire the `GND` pin of the motor driver to the `-` rail. 
-2. Connect the button as an emergency stop to go between the motor driver and the power supply. 
+2. Connect the button/switch that has barrel jack connectors between the motor driver and the power supply. This should cut off the power supply's voltage when toggled, acting as an emergency stop.
 3. Reduce the power supply output to about `4V`. **Remember, the motors are powerful. Always keep the workspace clear of obstacles (laptops) and hold on to the emergency stop button.**
 4. Confirm that the motor driver has power. The yellow `PWR` LED should be on. If not, turn on the emergency stop button.
 5. Push and hold the `M1A`, `M1B`, `M2A`, `M2B` buttons on the motor driver one at a time to check that the motors can spin in both directions. `M1` should correspond to the motor attached to the base. 
