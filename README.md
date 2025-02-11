@@ -8,7 +8,6 @@ Spring 2025[^1]
   - [2.1 Microcontroller](#21-microcontroller)
   - [2.2 Motors](#22-motors)
   - [2.3 Encoders](#23-encoders)
-- [3 Feedback Form](#3-feedback-form)
 - [X Optional](#x-optional)
   - [X.1 Adding the Joystick](#x1-adding-the-joystick)
   - [X.2 Moving in Joint Space](#x2-moving-in-joint-space)
@@ -110,14 +109,6 @@ Similar to Lab 1, we also need to wire and validate the microcontroller, motors,
 | :white_check_mark: CHECKOFF 1 :white_check_mark:   |
 |:---------------------------------------------------|
 | Demonstrate `encoder_test.cpp` to a TA or LA! |
-
-## 3 Feedback Form
-
-Before you leave, please fill out https://tinyurl.com/212-feedback. 
-
-| :white_check_mark: CHECKOFF 2 :white_check_mark:   |
-|:---------------------------------------------------|
-| Show the feedback form completion screen to a TA or LA. |
 
 ## X Optional
 
