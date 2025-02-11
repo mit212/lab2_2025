@@ -121,7 +121,7 @@ If you have any feedback, please fill out the form here: https://forms.gle/GXQCm
 
 Now that we have a validated 2-DoF robot, let's add a joystick to control it.
 
-1. Wire the joystick according to the schematic on the board.
+1. Wire the joystick according to pinout.h: connect U/D+ and L/R+ to the 3.3v rail, the two GND pins to the ground rail, L/R to XPIN, and U/D to YPIN.
 2. To validate that you can read the joystick input, run `joystick_test.cpp` and open the Serial Monitor. You should see joystick readings in the range `[-1, 1)`.
 
 ### X.2 Moving in Joint Space
