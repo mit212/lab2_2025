@@ -159,7 +159,7 @@ Open `lab_code/drawing.cpp` and complete all the `TODO`s. At a high level, the c
 Simply put, the x-axis of the joystick controls the velocity of motor 1 and the y-axis of the joystick controls the velocity of motor 2. This is joint space!
 
 ### X.2.3 Draw A Line
-Attach a marker to the end of your 2-DoF robot and try drawing a straight line on your whiteboard. Make sure to move all 3 files `drawing.cpp`, `joystick.cpp`, and `kinematics.cpp` from `lab_code/` to `robot/`.
+Attach a marker to the end of your 2-DoF robot and try drawing a straight line on your whiteboard. Make sure to move all 2 files `drawing.cpp` and `joystick.cpp` from `lab_code/` to `robot/`.
 
 | :white_check_mark: CHECKOFF 2 :white_check_mark:   |
 |:---------------------------------------------------|
