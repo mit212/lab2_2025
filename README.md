@@ -119,6 +119,7 @@ Similar to Lab 1, we also need to wire and validate the microcontroller, motors,
 
     Check that the motor driver has power by looking at the green `PWR` LED. If not, turn on the emergency stop button.
     </details>
+  
 9. Turn off the emergency stop button. The motor driver does not need power for the encoder wiring and validation.
 
 ### 2.3 Encoders 
