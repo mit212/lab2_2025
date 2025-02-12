@@ -22,6 +22,7 @@ Below is an image of the 2-DoF robot arm you will assemble. Completing this sect
 
 <p align=center>
   <img src=./.images/0_full.png width=600>
+   <em>image_caption</em>
 </p>
 
 Materials:
@@ -84,7 +85,12 @@ Similar to Lab 1, we also need to wire and validate the microcontroller, motors,
 
 ### 2.2 Motors 
 
-1. Wire the motors according to `include/pinout.h`. Remember to wire the `GND` pin of the motor driver to the `-` rail. 
+1. Wire the motors according to `include/pinout.h`. Remember to wire the `GND` pin of the motor driver to the `-` rail.
+ <details>
+    <summary><i> Can I see a diagram of the wiring?</i>
+    </summary>
+     It is a good skill to be able to wire motors and sensors without an explicit circuit diagram. That being said, everyone in the class has different levels of experience with wiring microcontrollers. If your group is confused or needs guidance, feel free to take a look at the demo setup the TAs have built to see how the wiring was done.
+    </details>
 2. Connect the button/switch that has barrel jack connectors between the motor driver and the power supply. This should cut off the power supply's voltage when toggled, acting as an emergency stop.
 3. Reduce the power supply output to around `5V`. **Remember, the motors are powerful. Always keep the workspace clear of obstacles (laptops) and hold on to the emergency stop button.**
 4. Confirm that the motor driver has power. The green `PWR` LED should be on. If not, turn on the emergency stop button.
