@@ -70,7 +70,7 @@ Steps:
       <em> Figure 5 </em>
     </p>
     
-5. Use two clamps to hold the base down to the table. **IMPORTANT:** Make space so that each arm link can move +/- 30° from its fully extended position without hitting anything.
+5. Use two clamps to hold the base down to the table. **IMPORTANT:** Ensure there is enough space for each arm link to move +/- 30° from the position when the arm is fully extended (both links are parallel) without hitting anything.
 
 ## 2 Wiring and Validation
 
@@ -107,7 +107,7 @@ Similar to Lab 1, we also need to wire and validate the microcontroller, motors,
      It is a good skill to be able to wire motors and sensors without an explicit circuit diagram. That being said, everyone in the class has different levels of experience with wiring microcontrollers. If your group is confused or needs guidance, feel free to take a look at the demo setup the TAs have built to see how the wiring was done.
     </details>
 2. Connect the button/switch that has barrel jack connectors between the motor driver and the power supply. This should cut off the power supply's voltage when toggled, acting as an emergency stop.
-3. Reduce the power supply output to around `5V`. **Remember, the motors are powerful. Always keep the workspace clear of obstacles (laptops) and hold on to the emergency stop button.**
+3. Reduce the power supply output to around `5.2V`. **Remember, the motors are powerful. Always keep the workspace clear of obstacles (laptops) and hold on to the emergency stop button.**
 4. Confirm that the motor driver has power. The green `PWR` LED should be on. If not, turn on the emergency stop button.
 5. Push and hold the `M1A`, `M1B`, `M2A`, `M2B` buttons on the motor driver one at a time to check that the motors can spin in both directions. `M1` should correspond to the motor attached to the base. 
 6. Turn off the emergency stop button. The emergency stop should always be off unless the motors need to move.
