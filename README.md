@@ -22,8 +22,8 @@ Below is an image of the 2-DoF robot arm you will assemble. Completing this sect
 
 <p align=center>
   <img src=./.images/0_full.png width=600>
-   <em>image_caption</em>
 </p>
+  <em>image_caption</em>
 
 Materials:
 
