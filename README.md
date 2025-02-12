@@ -100,7 +100,7 @@ Similar to Lab 1, we also need to wire and validate the microcontroller, motors,
 
 ### 2.2 Motors 
 
-1. Wire the motors according to `include/pinout.h`. Remember to wire the `GND` pin of the motor driver to the `-` rail.
+1. Wire the motors according to `include/pinout.h`. Remember to wire the `GND` pin of the motor driver to the `-` rail. Make sure that the motor ground wire is connected to the right of the terminal block, and the positive to the left (it should be the same order as the power supply pigtails).
     <details>
     <summary><i> Can I see a wiring diagram?</i>
     </summary>
