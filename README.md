@@ -70,7 +70,7 @@ Steps:
       <em> Figure 5 </em>
     </p>
     
-5. Use two clamps to hold the base down to the table. **IMPORTANT:** make space so that each arm link can move +/- 30° from its fully extended position without hitting anything.
+5. Use two clamps to hold the base down to the table. **IMPORTANT:** Make space so that each arm link can move +/- 30° from its fully extended position without hitting anything.
 
 ## 2 Wiring and Validation
 
