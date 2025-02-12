@@ -38,26 +38,39 @@ Materials:
 - marker holder
 
 Steps:
-1. Attach the 2 motors on either end of a single arm link.
+1. Attach the 2 motors on either end of a single arm link (Fig. 2).
     <p align=center>
       <img src=./.images/1_motors.png width=400>
     </p>
+    <p align=center>
+      <em> Figure 2 </em>
+    </p>
 
-2. Add the hubs onto each shaft using 2 set screws.
+2. Add the hubs onto each shaft using 2 set screws (Fig. 3).
     <p align=center>
       <img src=./.images/2_hub.png width=350>
     </p>
+    <p align=center>
+      <em> Figure 3 </em>
+    </p>
 
-3. Attach the base made of 3 U-channels to one of the hubs.
+3. Attach the base made of 3 U-channels to one of the hubs (Fig. 4).
     <p align=center>
       <img src=./.images/3_attach.png width=300>
     </p>
+    <p align=center>
+      <em> Figure 4 </em>
+    </p>
 
-4. Attach a new arm to the other hub and attach the marker holder to the end of that arm.
+4. Attach a new arm to the other hub and attach the marker holder to the end of that arm if it is not already present (Fig. 5).
     <p align=center>
       <img src=./.images/4_holder.png width=600>
     </p>
-5. Use two clamps to hold the base down to the table.
+    <p align=center>
+      <em> Figure 5 </em>
+    </p>
+    
+5. Use two clamps to hold the base down to the table. **IMPORTANT:** make space so that each arm link can move +/- 30° from its fully extended position without hitting anything.
 
 ## 2 Wiring and Validation
 
