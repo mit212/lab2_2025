@@ -109,19 +109,19 @@ Similar to Lab 1, we also need to wire and validate the microcontroller, motors,
 
 2. Connect the button/switch that has barrel jack connectors between the motor driver and the power supply. This should cut off the power supply's voltage when toggled, acting as an emergency stop.
 3. Reduce the power supply output to around `5.2V`. **Remember, the motors are powerful. Always keep the workspace clear of obstacles (laptops) and hold on to the power supply switch you just connected.**
-4. Confirm that the motor driver has power. The green `PWR` LED should be on. If not, turn on the emergency stop button.
+4. Confirm that the motor driver has power. The green `PWR` LED should be on. If not, turn on the power supply switch.
 5. Push and hold the `M1A`, `M1B`, `M2A`, `M2B` buttons on the motor driver one at a time to check that the motors can spin in both directions. `M1` should correspond to the motor attached to the base. 
-6. Turn off the emergency stop button. The emergency stop should always be off unless the motors need to move.
+6. Turn off the power supply switch. The power supply switch should always be off unless the motors need to move.
 7. Make the arm point straight up in full extension. This is the default position the arm should be in **before running any code**. 
 8. Run `motor_drive_test.cpp`. You should see both motors turn slightly in both directions at two different speeds.
     <details>
     <summary><i> Nothing is happening?</i>
     </summary>
 
-    Check that the motor driver has power by looking at the green `PWR` LED. If not, turn on the emergency stop button.
+    Check that the motor driver has power by looking at the green `PWR` LED. If not, turn on the power supply switch.
     </details>
   
-9. Turn off the emergency stop button. The motor driver does not need power for the encoder wiring and validation.
+9. Turn off the power supply switch. The motor driver does not need power for the encoder wiring and validation.
 
 ### 2.3 Encoders 
 
