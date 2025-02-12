@@ -196,5 +196,5 @@ Attach a marker to the end of your 2-DoF robot and try drawing a straight line o
 [^1]: Version 1 - 2020: Rachel Hoffman  
   Version 2 - 2024: Phillip Daniel  
   Version 3 - 2024: Ravi Tejwani, Kentaro Barhydt  
-  Version 4 - 2024: Jinger Chong, Josh Sohn
+  Version 4 - 2024: Jinger Chong, Josh Sohn  
   Version 5 - 2025: Roberto Bolli, Kaleb Blake
