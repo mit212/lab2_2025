@@ -164,7 +164,7 @@ With the joystick in place, we can then use code to connect the joystick reading
       float gpa;
     };
 
-    Student bob(1, 2.0); // Initializes a Student variable called bob with id 1 and gpa 2.0
+    Student bob = {1, 2.0}; // Initializes a Student variable called bob with id 1 and gpa 2.0
     bob.gpa = 2.3; // Updates the gpa member of bob to 2.3
     Serial.printf("GPA: %.2f\n", bob.gpa); // Prints the new gpa 2.3 in the Serial Monitor
     ```
